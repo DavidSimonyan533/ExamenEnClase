@@ -1,0 +1,88 @@
+html {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+a.naranja {
+    color: salmon;
+}
+
+div.rosa {
+    background-color: pink;
+}
+
+div.negro {
+    background-color: gray;
+    margin-top: 20px;
+}
+
+div.azul {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+    color: blue;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+img.rosa {
+    position: relative;
+    margin-left: 340px;
+    top: -10px;
+}
+
+img.negro {
+    position: relative;
+    margin-left: 650px;
+}
+
+a.smr {
+    color: blue;
+    position: relative;
+    margin-left: 340px;
+}
+
+a.negro {
+    color: blue;
+    position: relative;
+    margin-left: 50%;
+    top: 10px;
+}
+
+img.azul {
+    position: relative;
+    margin-left: 65%;
+}
+
+a.azul{
+    position: relative;
+    margin-left: 65%;
+    color: blue;
+    top: 10px;
+}
+
+span.rojo {
+    color: red;
+}
+
+p.naranjo {
+    color: orange;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    color: red;
+}
+
+table {
+    border: 1px solid;
+    
+}
